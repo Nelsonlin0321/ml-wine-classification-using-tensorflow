@@ -1,0 +1,2 @@
+model_checkpoint_path: "wine_classification_model.ckpt-2000"
+all_model_checkpoint_paths: "wine_classification_model.ckpt-2000"
